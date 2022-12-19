@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.blok{
+    width: 600px;
+    margin: 0 auto;
+    img{
+        width: 100%;
+    }
+}
+.btn{
+    position: fixed;
+    width: 650px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 350px;
+    button{
+  background: rgb(0, 0, 255);
+  border: none;
+  color: red;
+  font-size: 30px;
+  padding: 20px;
+    }
+}
